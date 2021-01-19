@@ -1,0 +1,15 @@
+baseURL = "https://www.opensidewalks.com"
+languageCode = "en-us"
+title = "OpenSidewalks"
+theme = "ananke"
+
+SectionPagesMenu = "main"
+
+[params]
+  favicon = "/favicon.ico"
+  background_color_class = "bg-black"
+  site_logo = "/images/opensidewalks-logo.png"
+  github = "https://github.com/OpenSidewalks"
+  twitter = "https://twitter.com/OpenSidewalks"
+  slack = "https://opensidewalks.slack.com/join/shared_invite/zt-l6f2ybyp-DbnVErs4kSFI7jUvs0bUDQ#/"
+  featured_image = "/images/hero.jpg"

@@ -1,0 +1,16 @@
+[[banners]]
+name = "Taskar Center for Accessible Technology"
+link = "http://tcat.cs.washington.edu/"
+logo = "/images/partners/tcat_logo.png"
+copy = ""
+
+[[banners]]
+name = "eScience Institute"
+link = "http://escience.washington.edu/"
+logo = "/images/partners/escience_institute_logo.png"
+copy = ""
+
+[[banners]]
+name = "Transportation Data Equity"
+link = "https://transitequity.cs.washington.edu/"
+logo = "/images/partners/transportation_data_equity_logo.png"

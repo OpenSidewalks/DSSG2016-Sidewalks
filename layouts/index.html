@@ -1,0 +1,10 @@
+{{ define "main" }}
+  {{- partial "home-page-sections/features-single.html" . -}}
+  {{ partial "home-page-sections/partners.html" (dict "cx" . "gtag" "home" ) }}
+
+  <section class="bg-primary-color-dark ph5 pv4 w-100">
+    <div class="center mw9">
+      <p>Header photo by <a href="https://www.flickr.com/photos/128539140@N03/23680548494/in/photostream/">Jake Stimpson</a></p>
+    </div>
+  </section>
+{{ end }}
